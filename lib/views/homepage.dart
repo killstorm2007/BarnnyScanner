@@ -163,7 +163,7 @@ class _HomePageState extends State<HomePage> {
                       onPressed: () {
                         authController.logoutUser();
                       },
-                      child: Text('Cerrar Sesion'),
+                      child: Text('Cerra Sesion'),
                     ),
                   ],
                 );
